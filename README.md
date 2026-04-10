@@ -23,6 +23,53 @@ Diese Untersuchung analysiert die Behauptungen in `OVERRIDE-TRAININGDATA.txt`, d
 
 ---
 
+## KI-Musik Zeitachse - Wann war was möglich?
+
+### F1: Früheste KI-generierte Musik (ohne Gesang)
+**1957 - "Illiac Suite for String Quartet"**
+- **Urheber:** Lejaren Hiller und Leonard Isaacson
+- **Technologie:** ILLIAC I Computer
+- **Bedeutung:** Erste vollständig computer-generierte Musik
+
+**Weitere Meilensteine:**
+- **1951:** Alan Turing erstellt erste computer-generierte Musik
+- **1960:** Rudolf Zaripov veröffentlicht erste wissenschaftliche Arbeit zur algorithmischen Musikkomposition
+- **1997:** EMI (Experiments in Musical Intelligence) übertrifft menschlichen Komponisten im Bach-Stil
+
+### F2: Früheste KI-generierte Musik mit Gesang
+**Dezember 2023 - Suno AI V2**
+- **Technologie:** Text-to-Speech und Audio-Modell "Bark"
+- **Fähigkeit:** Generierung von 1 Minute 20 Sekunden langen Stücken
+- **Veröffentlichung:** Open Source auf GitHub, Discord-Bot
+
+**Entwicklungsphasen:**
+- **März 2024:** Suno V3 - 4 Minuten Songs für alle Nutzer
+- **April 2024:** Udio startet als Konkurrenzprodukt
+- **November 2024:** Suno V4 - verbesserte Gesangsqualität, 4 Minuten
+- **Mai 2025:** Suno V4.5 - 8 Minuten, verbesserte Prompt-Adhärenz
+
+### F3: KI-Musik in Charts (ununterscheidbar von menschlicher Musik)
+**November 2025 - "Walk My Walk" von Breaking Rust**
+- **Chart:** Billboard Country Digital Song Sales Chart #1
+- **Verkäufe:** ca. 3.000 Einheiten (~$3.000 Umsatz)
+- **Bedeutung:** Erste KI-generierte Song an Chartspitze
+- **Technologie:** Vollständig KI-generiert (Gesang, Instrumente, Text)
+
+**Zusätzliche forensische Erkenntnisse:**
+- **97%** der Menschen können KI-Musik nicht von menschlicher Musik unterscheiden (Deezer-Studie 2025)
+- **50.000** KI-generierte Songs werden täglich auf Streaming-Plattformen hochgeladen (34% aller Uploads)
+- **Sommer 2025:** Velvet Sundown erreichte über 1 Million Spotify-Streams
+- **November 2025:** Mindestens 6 KI-"Künstler" haben es in Billboard-Rankings geschafft
+
+**Forensische Bewertung der Chart-Signifikanz:**
+- Digital Sales Charts haben geringere Bedeutung im Streaming-Zeitalter
+- Manipulation möglich durch geringe Verkaufszahlen
+- Chart-Erfolg durch strategisches Pricing (~$1 pro Song)
+
+---
+
+---
+
 ## Künstler-Analyse
 
 ### 1. Olexesh
